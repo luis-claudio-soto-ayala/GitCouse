@@ -3,3 +3,4 @@
 3. Gigabyte
 4. Logitech
 5. Vaul-tec
+6. AMD
