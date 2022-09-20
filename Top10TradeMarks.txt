@@ -6,3 +6,5 @@
 6. AMD
 7. Intel
 8. NECA
+9. Hasbro
+10. 343
