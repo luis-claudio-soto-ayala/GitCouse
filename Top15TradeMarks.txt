@@ -11,6 +11,11 @@
 11. Coca-cola
 12. Halo
 13. MegaBlocks
+<<<<<<< HEAD
 14. Lega
 15. cactaceo
+=======
+14. Lego
+15. cactacea
+>>>>>>> branch 'main' of https://github.com/luis-claudio-soto-ayala/GitCouse.git
 
